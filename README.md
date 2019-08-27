@@ -1,4 +1,6 @@
-this is the test 2 branch
+
+this is the master branch
+
 # sta518-test
 This repo is to explore GitHub and markdown for STA 518
 
